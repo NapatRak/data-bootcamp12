@@ -1,1 +1,1 @@
-print("Easy")
+print("spotify")
